@@ -1,8 +1,8 @@
 # 📘 Theorem: Subsets, Supersets, and Improper Subsets
 
-**Author:** Arfa Yoosaf
-**Organization:** Next Gen Developers 
-**Date:** 12 August 2025  
+<p>**Author:** Arfa Yoosaf</p>
+<p>**Organization:** Next Gen Developers</p>
+<p>**Date:** 12 August 2025</p>
 
 ---
 
